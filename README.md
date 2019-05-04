@@ -43,8 +43,4 @@ Each incident has its own set of statistics as a function of their number of vic
 
 [List of major terrorist incidents](https://en.wikipedia.org/wiki/List_of_major_terrorist_incidents)
 
-Each incident's own Wikipedia article.
-
-Referenced sources in the incident's Wikipedia articles.
-
-Media of record such as Radio New Zealand, BBC News, Al Jazeera, CNN, and media of record from the country in which the incident occurred.
+Complemented by each incident's own Wikipedia article; referenced sources in the incident's Wikipedia articles; and media of record such as Radio New Zealand, BBC News, Al Jazeera, CNN, and media of record from the country in which the incident occurred.
