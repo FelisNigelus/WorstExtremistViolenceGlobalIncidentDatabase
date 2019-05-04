@@ -5,9 +5,9 @@
  
 While gathering data about global extremist violence incidents with the intention of analysing the Christchurch Mosques Massacre within a global context, we realised that such data was not readily accessible. It existed but it was spread across several websites and recorded on HTML tables. There was no one-whole set, put together in a standardised manner, in an accessible format (CSV, XLS, or other such), that anyone wishing to do an analysis could download and work with. So we set up to compile it.
 
-Initially we gathered information from the two hundred (200) worst incidents of extremist violence from all over the world, going back as far as 1974.  As of 5th of May 2019 the dataset contains two hundred and fifteen (215) incidents. 
+Initially we gathered information from two hundred (200) then worst incidents of extremist violence that we could find, from all over the world, going as far back as 1974.  As of 5th of May 2019 the dataset contains two hundred and fifteen (215) incidents. 
 
-For the purpose of the inclusion of an extremist violence incident in this dataset “worst” means the one of following two definitions: 
+For the purpose of the inclusion of an extremist violence incident in this dataset “*worst*” means the one of following two definitions: 
  - the number of direct victims (fatalities plus non-fatally injured) as a proportion of the population of the country in the year of occurrence is 1:1’000,000 or worse;
  - incidents with fewer proportional victims then 1:1’000,000 but of such infamy that they must be counted amongst the worst; for example, the 2011 Monterrey casino attack (México), the 2007 Samjhauta Express bombings (India), the 2016 Orlando nightclub shooting (USA), the July 2015 Kukawa massacre (Nigeria), or the Nishtar Park bombing (Pakistan).
 
