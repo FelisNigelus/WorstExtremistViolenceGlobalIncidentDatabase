@@ -22,7 +22,8 @@ For example, in the case of the Christchurch Mosques Massacre, the statistics ar
  - 1 fatality for every 96,595 New Zealanders unscathed;
  - 1 non-fatally injured for every 100,538 unscathed;
  - 1 direct victim for every 49,263 Zealanders unscathed.
-Other incidents have different statistics, relative to their own victim and population numbers.  
+ 
+Each incident has its own set of statistics as a function of their number of victims (fatalities, non-fatally injured, direct victims). and population.
 
 ## Methodology
 
