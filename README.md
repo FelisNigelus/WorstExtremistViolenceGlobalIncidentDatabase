@@ -2,9 +2,7 @@
 ## From 1974 to 2019 (present day)
 ### last update 4th of May, 2019 1735 NZST
  
-While gathering data about global extremist violence incidents with the intention of analysing the Christchurch Mosques Massacre within a global context, we realised that such data was not readily accessible. 
-
-It existed but it was spread across several websites and recorded on HTML tables. There was no one whole set, put together in a standardised manner, in an accessible format (CSV, XLS, or other such) that anyone wishing to do an analysis could download and work with. So we set up to compile it.
+While gathering data about global extremist violence incidents with the intention of analysing the Christchurch Mosques Massacre within a global context, we realised that such data was not readily accessible. It existed but it was spread across several websites and recorded on HTML tables. There was no one whole set, put together in a standardised manner, in an accessible format (CSV, XLS, or other such), that anyone wishing to do an analysis could download and work with. So we set up to compile it.
 
 We have gathered information from the 200 worst incidents of extremist violence from all over the world, going back as far as 1974.  As of 4th of May 2019 the dataset contains two hundred (200) incidents. 
 
