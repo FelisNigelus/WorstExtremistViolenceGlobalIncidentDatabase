@@ -45,5 +45,7 @@ Each incident has its own set of statistics as a function of their number of vic
 
 Complemented by each incident's own Wikipedia article; referenced sources in the incident's Wikipedia articles; and media of record such as Radio New Zealand, BBC News, Al Jazeera, CNN, and media of record from the country in which the incident occurred.
 
+The population information was obtained from [PopulationPyramid.net](https://www.populationpyramid.net)
+
 ## Licensing
 This project is available under a [Creative Commons Attribution Share Alike 4.0 International](https://github.com/FelisNigelus/GlobalExtremistViolenceIncidentDatabase/blob/master/LICENSE.txt) license.
