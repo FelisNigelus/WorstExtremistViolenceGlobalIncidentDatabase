@@ -27,7 +27,7 @@ Each incident has its own set of statistics as a function of their number of vic
 
 ## Methodology
 
- - The details for each incident are as recorded on the Wikipedia "List-of" articles referenced at the top of the Sources list, except when having been corrected using information obtained from the incident's own Wikipedia article. 
+ - The details for each incident are as recorded on the Wikipedia "List-of" articles referenced on the Sources list, except when having been corrected using information obtained from the incident's own Wikipedia article. 
  - The dates have been obtained from each incident's own Wikipedia article. 
  - When an incident does not indicate a number of non-fatally injured victims, that information is unknown and the field is marked "Unknown". 
  - When the number of victims has been uncertain and the victims have been stated as a range (between A and B) the high-end of the range of victims has been the one recorded.
