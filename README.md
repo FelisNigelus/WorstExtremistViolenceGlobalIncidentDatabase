@@ -31,8 +31,10 @@ Each incident has its own set of statistics as a function of its number of victi
  - The dates have been obtained from each incident's own Wikipedia article. 
  - When an incident does not indicate a number of non-fatally injured victims, that information is unknown and the field has been left blanc. 
  - When the number of victims has been uncertain and the victims have been stated as a range (between A and B) the high-end of the range of victims has been the one recorded.
+ - The perpretators are not included in any of the counts.
  - When an incident has happened overnight starting on a date and finishing the following morning, it has been reflected as such on the dates (for example, the 2014 Gamboru Ngala attack).
  - Due consideration has been taken to any likely bias or agenda when gathering information from sources.  Sources have been cross-referenced to reduce bias risk.
+ - In all cases of conflicting information, multiple cross-referrenced sources have been used.
 
 ## The Database
 
