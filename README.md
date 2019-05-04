@@ -46,9 +46,11 @@ Each incident has its own set of statistics as a function of its number of victi
 
 [List of major terrorist incidents](https://en.wikipedia.org/wiki/List_of_major_terrorist_incidents)
 
+[List of Islamophobic incidents](https://en.wikipedia.org/wiki/List_of_Islamophobic_incidents)
+
 Complemented by each incident's own Wikipedia article; referenced sources in the incident's Wikipedia articles; and media of record such as Radio New Zealand, BBC News, Al Jazeera, Mother Jones, plus media of record from the country in which the incidents occurred.
 
-The population information was obtained from [PopulationPyramid.net](https://www.populationpyramid.net)
+The population information was obtained from [PopulationPyramid.net](https://www.populationpyramid.net). When a region is not on PopulationPyramid, statistical information is used to obtain its population for the year required.
 
 ## Licensing
 This project is available under a [Creative Commons Attribution Share Alike 4.0 International](https://github.com/FelisNigelus/GlobalExtremistViolenceIncidentDatabase/blob/master/LICENSE.txt) license.
