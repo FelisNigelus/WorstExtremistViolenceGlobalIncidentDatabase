@@ -1,9 +1,11 @@
 # Worst Global Extremist Violence Incident Database
 ## From 1974 to 2019 (present day)
 ### Latest update: 5th of May, 2019 NZST
-### Number of incidents in dataset: 215
+### Number of incidents in dataset: 217
+### Database version: 1.02
+### SHA1 for current version of WGEVID.xls: 76b00eb2f626e70c993e5aa41d0cfc02a2b68ab6
  
-While gathering data about global extremist violence incidents with the intention of analysing the Christchurch Mosques Massacre within a global context, we realised that such data was not readily accessible. It existed but it was spread across several websites and recorded on HTML tables. There was no one-whole set, put together in a standardised manner, in an accessible format (CSV, XLS, or other such), that anyone wishing to do an analysis could download and work with. So we set up to compile it.
+While gathering data about global extremist violence incidents with the intention of analysing the Christchurch Mosques Massacre within a global context, we realised that such data was not readily accessible. It existed but it was spread across many websites and recorded on HTML documents and tables. There was no one-whole set, put together in a standardised manner, in an accessible format (CSV, XLS, or other such), that anyone wishing to do an analysis could download and work with. So we set up to compile it.
 
 Initially we gathered information from two hundred (200) then worst incidents of extremist violence that we could find, from all over the world, going as far back as 1974.  As of 5th of May 2019 the dataset contains two hundred and fifteen (215) incidents. 
 
