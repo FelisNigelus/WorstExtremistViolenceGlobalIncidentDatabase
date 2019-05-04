@@ -1,10 +1,11 @@
 # Worst Global Extremist Violence Incident Database
 ## From 1974 to 2019 (present day)
-### Latest update 4th of May, 2019 NZST
+### Latest update: 5th of May, 2019 NZST
+### Number of incidents in dataset: 215
  
 While gathering data about global extremist violence incidents with the intention of analysing the Christchurch Mosques Massacre within a global context, we realised that such data was not readily accessible. It existed but it was spread across several websites and recorded on HTML tables. There was no one-whole set, put together in a standardised manner, in an accessible format (CSV, XLS, or other such), that anyone wishing to do an analysis could download and work with. So we set up to compile it.
 
-We have gathered information from the 200 worst incidents of extremist violence from all over the world, going back as far as 1974.  As of 4th of May 2019 the dataset contains two hundred (200) incidents. 
+Initially we gathered information from the two hundred (200) worst incidents of extremist violence from all over the world, going back as far as 1974.  As of 5th of May 2019 the dataset contains two hundred and fifteen (215) incidents. 
 
 For the purpose of the inclusion of an extremist violence incident in this dataset “worst” means the one of following two definitions: 
  - the number of direct victims (fatalities plus non-fatally injured) as a proportion of the population of the country in the year of occurrence is 1:1’000,000 or worse;
@@ -38,14 +39,14 @@ Each incident has its own set of statistics as a function of its number of victi
 
 ## The Database
 
-[Worst Global Extremist Violence Incident Database](https://github.com/FelisNigelus/GlobalExtremistViolenceIncidentDatabase/blob/master/WGEVID.xls "Version 1.0 Latest update 04/05/2019 200 records") 
+[Worst Global Extremist Violence Incident Database](https://github.com/FelisNigelus/GlobalExtremistViolenceIncidentDatabase/blob/master/WGEVID.xls "Version 1.01 Latest update 05/05/2019 215 records") 
 
 ## Sources
 [List of battles and other violent events by death toll](https://en.wikipedia.org/wiki/List_of_battles_and_other_violent_events_by_death_toll)
 
 [List of major terrorist incidents](https://en.wikipedia.org/wiki/List_of_major_terrorist_incidents)
 
-Complemented by each incident's own Wikipedia article; referenced sources in the incident's Wikipedia articles; and media of record such as Radio New Zealand, BBC News, Al Jazeera, CNN, and media of record from the country in which the incident occurred.
+Complemented by each incident's own Wikipedia article; referenced sources in the incident's Wikipedia articles; and media of record such as Radio New Zealand, BBC News, Al Jazeera, Mother Jones, plus media of record from the country in which the incidents occurred.
 
 The population information was obtained from [PopulationPyramid.net](https://www.populationpyramid.net)
 
