@@ -1,6 +1,6 @@
 # Worst Global Extremist Violence Incident Database
 ## From 1974 to 2019 (present day)
-### last update 4th of May, 2019 1735 NZST
+### Latest update 4th of May, 2019 NZST
  
 While gathering data about global extremist violence incidents with the intention of analysing the Christchurch Mosques Massacre within a global context, we realised that such data was not readily accessible. It existed but it was spread across several websites and recorded on HTML tables. There was no one-whole set, put together in a standardised manner, in an accessible format (CSV, XLS, or other such), that anyone wishing to do an analysis could download and work with. So we set up to compile it.
 
@@ -36,7 +36,7 @@ Each incident has its own set of statistics as a function of their number of vic
 
 ## The Database
 
-[Worst Global Extremist Violence Incident Database](https://github.com/FelisNigelus/GlobalExtremistViolenceIncidentDatabase/blob/master/WGEVID.xls "Version 1.0  Date 04/05/2019  200 records") 
+[Worst Global Extremist Violence Incident Database](https://github.com/FelisNigelus/GlobalExtremistViolenceIncidentDatabase/blob/master/WGEVID.xls "Version 1.0 | Latest update 04/05/2019 | 200 records") 
 
 ## Sources
 [List of battles and other violent events by death toll](https://en.wikipedia.org/wiki/List_of_battles_and_other_violent_events_by_death_toll)
