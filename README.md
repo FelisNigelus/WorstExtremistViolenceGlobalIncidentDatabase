@@ -12,7 +12,7 @@ For the purposes of the inclusion in this dataset “worst” means the one of f
 
 We will incorporate into the dataset incidents that meet the “worst” criteria as they occur or as we find out about them.
 
-##Contents
+## Contents
 
 The dataset contains the “name” of the incident, the main country affected, the date(s) when it occurred, the population of the country in the year the incident occurred, the number of fatalities, the number of non-fatally injured, and the number of direct victims (fatalities plus non-fatally injured).
 
@@ -23,7 +23,7 @@ For example, in the case of the Christchurch Mosques Massacre, the statistics ar
  - 1 non-fatally injured for every 100,538 unscathed;   - 1 direct victim for every 49,263 Zealanders unscathed.
 Other incidents have different statistics, relative to their own victim and population numbers.  
 
-##Methodology
+## Methodology
 
  - The details for each incident are as recorded on the Wikipedia "List-of" articles referenced at the top of the Sources list, except when having been corrected using information obtained from the incident's own Wikipedia article. 
  - The dates have been obtained from each incident's own Wikipedia article. 
@@ -32,7 +32,7 @@ Other incidents have different statistics, relative to their own victim and popu
  - When an incident has happened overnight starting on a date and finishing the following morning, it has been reflected as such on the dates (for example, the 2014 Gamboru Ngala attack).
  - Due consideration has been taken to any likely bias or agenda when gathering information from sources.  Sources have been cross-referenced to reduce bias risk.
 
-##Sources
+## Sources
 
 https://en.wikipedia.org/wiki/List_of_battles_and_other_violent_events_by_death_toll
 https://en.wikipedia.org/wiki/List_of_major_terrorist_incidents
