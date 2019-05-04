@@ -40,6 +40,7 @@ Each incident has its own set of statistics as a function of their number of vic
 
 ## Sources
 [List of battles and other violent events by death toll](https://en.wikipedia.org/wiki/List_of_battles_and_other_violent_events_by_death_toll)
+
 [List of major terrorist incidents](https://en.wikipedia.org/wiki/List_of_major_terrorist_incidents)
  - Each incident's own Wikipedia article.
  - Referenced sources in some of the incident's Wikipedia articles, as required. 
