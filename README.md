@@ -34,6 +34,12 @@ Each incident has its own set of statistics as a function of their number of vic
  - When an incident has happened overnight starting on a date and finishing the following morning, it has been reflected as such on the dates (for example, the 2014 Gamboru Ngala attack).
  - Due consideration has been taken to any likely bias or agenda when gathering information from sources.  Sources have been cross-referenced to reduce bias risk.
 
+## The Database
+
+![alt text][logo]
+
+                                                     [logo]: Global_Extremist_Violence_Incident_Database_1974-2019_Ver_1.0_Date_20190504.xls "Worst Global Extremist Violence Incident Database Version 1.0 Date 4 May 2019"
+
 ## Sources
 
  - https://en.wikipedia.org/wiki/List_of_battles_and_other_violent_events_by_death_toll
