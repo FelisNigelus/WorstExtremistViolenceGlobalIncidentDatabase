@@ -40,8 +40,8 @@ Each incident has its own set of statistics as a function of their number of vic
 
 ## Sources
 
- - https://en.wikipedia.org/wiki/List_of_battles_and_other_violent_events_by_death_toll
- - https://en.wikipedia.org/wiki/List_of_major_terrorist_incidents
+ - (https://en.wikipedia.org/wiki/List_of_battles_and_other_violent_events_by_death_toll)
+ - (https://en.wikipedia.org/wiki/List_of_major_terrorist_incidents)
  - Each incident's own Wikipedia article.
  - Referenced sources in some of the incident's Wikipedia articles, as required. 
  - Media of record such as Radio New Zealand, BBC News, Al Jazeera, CNN, and media of record from the country in which the incident occurred.
