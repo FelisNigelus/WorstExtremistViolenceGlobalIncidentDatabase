@@ -36,9 +36,7 @@ Each incident has its own set of statistics as a function of their number of vic
 
 ## The Database
 
-   ![alt text][logo]
-
-[logo]: Global_Extremist_Violence_Incident_Database_1974-2019_Ver_1.0_Date_20190504.xls "Worst Global Extremist Violence Incident Database Version 1.0 Date 4 May 2019"
+The database can be found at https://github.com/FelisNigelus/GlobalExtremistViolenceIncidentDatabase/blob/master/Global_Extremist_Violence_Incident_Database_1974-2019_Ver_1.0_Date_20190504.xls
 
 ## Sources
 
