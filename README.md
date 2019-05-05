@@ -57,6 +57,16 @@ Each incident has its own set of statistics as a function of its number of victi
 
 [Compilation of Antisemitic attacks and incidents](https://en.wikipedia.org/wiki/Category:Antisemitic_attacks_and_incidents)
 
+[Right-wing Terrorism](https://en.wikipedia.org/wiki/Right-wing_terrorism)
+
+[Anti-abortion Violence](https://en.wikipedia.org/wiki/Anti-abortion_violence)
+
+[Significant Acts of Violence against LGBTIQ+](https://en.wikipedia.org/wiki/Significant_acts_of_violence_against_LGBT_people)
+
+[Mass Racial Violence in the United States](https://en.wikipedia.org/wiki/Mass_racial_violence_in_the_United_States)
+
+We are in the process of identifying other relevant compilations and lists.
+
 Complemented by each incident's own Wikipedia article; referenced sources in the incident's Wikipedia articles; media of record such as Radio New Zealand, BBC News, Al Jazeera, Mother Jones, CNN, and others; media of record from the countries in which the incidents occurred; plus other authoritative sources, when journalistic sources are inconclusive or contradictory.
 
 The population information was obtained from [PopulationPyramid.net](https://www.populationpyramid.net). When a region is not on PopulationPyramid, statistical information is used to obtain its population for the year required.
