@@ -65,9 +65,9 @@ Each incident has its own set of statistics as a function of its number of victi
 
 [Mass Racial Violence in the United States](https://en.wikipedia.org/wiki/Mass_racial_violence_in_the_United_States)
 
-We are in the process of identifying other relevant compilations and lists.
-
 Complemented by each incident's own Wikipedia article; referenced sources in the incident's Wikipedia articles; media of record such as Radio New Zealand, BBC News, Al Jazeera, Mother Jones, CNN, and others; media of record from the countries in which the incidents occurred; plus other authoritative sources, when journalistic sources are inconclusive or contradictory.
+
+We are working though the sources referenced here and are in the process of identifying other relevant extremist violence compilations and lists.
 
 The population information was obtained from [PopulationPyramid.net](https://www.populationpyramid.net). When a region is not on PopulationPyramid, statistical information is used to obtain its population for the year required.
 
