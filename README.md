@@ -7,7 +7,7 @@
 
 While gathering data about global extremist violence incidents with the intention of analysing the Christchurch Mosques Massacre within a global context, we realised that such data was not readily accessible. It existed but it was spread across many websites and recorded on HTML documents and tables. There was no one-whole set, put together in a standardised manner, in an accessible format (CSV, XLS, or other such), that anyone wishing to do an analysis could download and work with. So we set up to compile it.
 
-Initially we gathered information from two hundred (200) then worst incidents of extremist violence that we could find, from all over the world, going as far back as 1974.  As of 5th of May 2019 the dataset contains two hundred and fifteen (215) incidents.
+Initially we gathered information from two hundred (200) then worst incidents of extremist violence that we could find, from all over the world, going as far back as 1974.  As of 5th of May 2019 the dataset contains two hundred and fifteen (217) incidents.
 
 For the purpose of the inclusion of an extremist violence incident in this dataset “*worst*” means the one of following two definitions:
  - the number of direct victims (fatalities plus non-fatally injured) as a proportion of the population of the country in the year of occurrence is 1:1’000,000 or worse;
@@ -38,6 +38,8 @@ Each incident has its own set of statistics as a function of its number of victi
  - When an incident has happened overnight starting on a date and finishing the following morning, it has been reflected as such on the dates (for example, the 2014 Gamboru Ngala attack).
  - Due consideration has been taken to any likely bias or agenda when gathering information from sources.  Sources have been cross-referenced to reduce bias risk.
  - In all cases of conflicting information, multiple cross-referenced sources have been used.
+ - Moving forward, we will be systematically examining compilations of extremist violence incidents in order to identify those that we may have not identified yet.
+ - 
 
 ## The Database
 
@@ -52,6 +54,8 @@ Each incident has its own set of statistics as a function of its number of victi
 [List of major terrorist incidents](https://en.wikipedia.org/wiki/List_of_major_terrorist_incidents)
 
 [List of Islamophobic incidents](https://en.wikipedia.org/wiki/List_of_Islamophobic_incidents)
+
+[Compilation of Antisemitic attacks and incidents](https://en.wikipedia.org/wiki/Category:Antisemitic_attacks_and_incidents)
 
 Complemented by each incident's own Wikipedia article; referenced sources in the incident's Wikipedia articles; media of record such as Radio New Zealand, BBC News, Al Jazeera, Mother Jones, CNN, and others; media of record from the countries in which the incidents occurred; plus other authoritative sources, when journalistic sources are inconclusive or contradictory.
 
