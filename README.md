@@ -3,7 +3,7 @@
 ### Latest update: 5th of May, 2019 NZST
 ### Number of incidents in dataset: 217
 ### Database version: 1.02
-#### SHA1 hash for version 1.02 of WGEVID.xls: 76b00eb2f626e70c993e5aa41d0cfc02a2b68ab6
+#### SHA1 hash for version 1.02 of WGEVID.xls: e2153f47349681d0f2f860f4660ebb2da82431e6
 
 While gathering data about global extremist violence incidents with the intention of analysing the Christchurch Mosques Massacre within a global context, we realised that such data was not readily accessible. It existed but it was spread across many websites and recorded on HTML documents and tables. There was no one-whole set, put together in a standardised manner, in an accessible format (CSV, XLS, or other such), that anyone wishing to do an analysis could download and work with. So we set up to compile it.
 
