@@ -46,7 +46,7 @@ Each incident has its own set of statistics as a function of its number of victi
 [Worst Global Extremist Violence Incident Database](https://github.com/FelisNigelus/GlobalExtremistViolenceIncidentDatabase/blob/master/WGEVID.xls "Version 1.01 Latest update 05/05/2019 215 records")
 
  - Each time the file WGEVID.xls is changed a SHA1 hash is computed.
- - Each time the file WGEVID.xls is changed it is signed.
+ - The file WGEVID.xls is signed.
 
 ## Sources
 [List of battles and other violent events by death toll](https://en.wikipedia.org/wiki/List_of_battles_and_other_violent_events_by_death_toll)
