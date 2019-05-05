@@ -39,7 +39,7 @@ Each incident has its own set of statistics as a function of its number of victi
  - Due consideration has been taken to any likely bias or agenda when gathering information from sources.  Sources have been cross-referenced to reduce bias risk.
  - In all cases of conflicting information, multiple cross-referenced sources have been used.
  - Moving forward, we will be systematically examining compilations of extremist violence incidents in order to identify those that we may have not identified yet.
- - 
+ - As this database is meant to be an aide for examination and analysis, rather than an exhaustive compilation of every extremist violence incident in history, we have made the design decision to only include incidents from 1973 onwards.
 
 ## The Database
 
