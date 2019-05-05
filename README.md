@@ -63,8 +63,6 @@ Each incident has its own set of statistics as a function of its number of victi
 
 [Significant Acts of Violence against LGBTIQ+](https://en.wikipedia.org/wiki/Significant_acts_of_violence_against_LGBT_people)
 
-[List of Unlawfully Killer Transgender People](https://en.wikipedia.org/wiki/List_of_unlawfully_killed_transgender_people)
-
 [Mass Racial Violence in the United States](https://en.wikipedia.org/wiki/Mass_racial_violence_in_the_United_States)
 
 We are in the process of identifying other relevant compilations and lists.
