@@ -1,9 +1,9 @@
 # Worst Global Extremist Violence Incident Database
 ## From 1974 to 2019 (present day)
-### Latest update: 5th of May, 2019 NZST
-### Number of incidents in dataset: 217
-### Database version: 1.02
-#### SHA1 hash for version 1.02 of WGEVID.xls: e2153f47349681d0f2f860f4660ebb2da82431e6
+### Latest update: 6th of May, 2019 NZST
+### Number of incidents in dataset: 236
+### Database version: 1.03
+#### SHA1 hash for version 1.03 of WGEVID.xls: b18e9f3c6b6976d9049cca248cff4d12934acad9
 
 While gathering data about global extremist violence incidents with the intention of analysing the Christchurch Mosques Massacre within a global context, we realised that such data was not readily accessible. It existed but it was spread across many websites and recorded on HTML documents and tables. There was no one-whole set, put together in a standardised manner, in an accessible format (CSV, XLS, or other such), that anyone wishing to do an analysis could download and work with. So we set up to compile it.
 
