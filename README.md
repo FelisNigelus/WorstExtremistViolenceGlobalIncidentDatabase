@@ -1,9 +1,9 @@
-# Worst Global Extremist Violence Incident Database
+# Worst Extremist Violence Global Incident Database
 ## From 1974 to 2019 (present day)
 ### Latest update: 6th of May, 2019 NZST
 ### Number of incidents in dataset: 236
 ### Database version: 1.03
-#### SHA1 hash for version 1.03 of WGEVID.xls: b18e9f3c6b6976d9049cca248cff4d12934acad9
+#### SHA1 hash for version 1.03 of WEVGID.xls: b18e9f3c6b6976d9049cca248cff4d12934acad9
 
 While gathering data about global extremist violence incidents with the intention of analysing the Christchurch Mosques Massacre within a global context, we realised that such data was not readily accessible. It existed but it was spread across many websites and recorded on HTML documents and tables. There was no one-whole set, put together in a standardised manner, in an accessible format (CSV, XLS, or other such), that anyone wishing to do an analysis could download and work with. So we set up to compile it.
 
@@ -43,10 +43,10 @@ Each incident has its own set of statistics as a function of its number of victi
 
 ## The Database
 
-[Worst Global Extremist Violence Incident Database](https://github.com/FelisNigelus/GlobalExtremistViolenceIncidentDatabase/blob/master/WGEVID.xls "Version 1.02 Latest update 05/05/2019 217 records")
+[Worst Extremist Violence Global Incident Database](https://github.com/FelisNigelus/GlobalExtremistViolenceIncidentDatabase/blob/master/WEGVID.xls "Version 1.03 Latest update 06/05/2019 236 records")
 
- - Each time the file WGEVID.xls is changed a SHA1 hash is computed.
- - Each time the file WGEVID.xls is changed it is [signed](https://github.com/FelisNigelus/GlobalExtremistViolenceIncidentDatabase/blob/master/WGEVID.xls.sig).
+ - Each time the file WEVGID.xls is changed a SHA1 hash is computed.
+ - Each time the file WEVGID.xls is changed it is [signed](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/blob/master/WEVGID.xls.sig).
 
 ## Sources
 [List of battles and other violent events by death toll](https://en.wikipedia.org/wiki/List_of_battles_and_other_violent_events_by_death_toll)
@@ -74,4 +74,4 @@ We are working through the sources referenced here and are also in the process o
 The population information was obtained from [PopulationPyramid.net](https://www.populationpyramid.net). When a region is not on PopulationPyramid, statistical information is used to obtain its population for the year required.
 
 ## Licensing
-This project is available under a [Creative Commons Attribution Share Alike 4.0 International](https://github.com/FelisNigelus/GlobalExtremistViolenceIncidentDatabase/blob/master/LICENSE.txt) license.
+This project is available under a [Creative Commons Attribution Share Alike 4.0 International](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/blob/master/LICENSE.txt) license.
