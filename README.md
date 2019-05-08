@@ -19,7 +19,7 @@ We will incorporate into the dataset incidents that meet the “worst” criteri
 
 The dataset contains the “name” of the incident, the main country affected, the date(s) when it occurred, the population of the country in the year the incident occurred, the number of fatalities, the number of non-fatally injured, and the number of direct victims (fatalities plus non-fatally injured).
 
-Using this data we have calculated a comparison statistic: how many people were unscathed for every victim.  We have calculated the statistic by number of people unscathed for every fatality, by number of people unscathed for non-fatally injured person, and by number of people unscathed for every direct victim (fatalities plus non-fatally injured).  The data used is the number of victims (for the three categories) and the population of the country in the year the incident occurred.
+Using this data we have calculated a comparison statistic: how many people were unscathed for every victim.  We have calculated the statistic by number of people unscathed for every fatality; by number of people unscathed for every non-fatally injured person; and by number of people unscathed for every direct victim (fatalities plus non-fatally injured).  The data used is the number of victims (for the three categories) and the population of the country in the year the incident occurred.
 
 For example, in the case of the Christchurch Mosques Massacre, the statistics are:
  - 1 fatality for every 96,595 New Zealanders unscathed;
