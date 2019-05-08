@@ -38,7 +38,7 @@ Each incident has its own set of statistics as a function of its number of victi
  - When an incident has happened overnight starting on a date and finishing the following morning, it has been reflected as such on the dates (for example, the 2014 Gamboru Ngala attack).
  - Due consideration has been taken to any likely bias or agenda when gathering information from sources.  Sources have been cross-referenced to reduce bias risk.
  - In all cases of conflicting information, multiple cross-referenced sources have been used.
- - Moving forward, we will be systematically examining compilations of extremist violence incidents in order to identify those that we may have not identified yet.
+ - Moving forward, we will be systematically examining compilations of extremist violence incidents in order to find cases that we may have not evaluated and incorporated into the dataset yet.
  - As this database is meant to be an aide for examination and analysis, rather than an exhaustive compilation of every extremist violence incident in history, we have made the design decision to only include incidents from 1973 onwards.
 
 ## The Database
