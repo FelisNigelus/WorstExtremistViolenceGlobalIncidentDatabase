@@ -5,7 +5,7 @@
 ### Database version: 1.03
 #### SHA1 hash for version 1.03 of WEVGID.xls: 0787c95543c88928b22dfae9943812df7a5e234a
 
-While gathering data about global extremist violence incidents with the intention of analysing the Christchurch Mosques Massacre (Christchurch, New Zealand, 1:40 pm to 2:02 pm, 15/03/2019) within a global context, we realised that such data was not readily accessible. It existed but it was spread across many websites and recorded on HTML documents and tables. There was no one-whole set, put together in a standardised manner, in an accessible format (CSV, XLS, or other such), that anyone wishing to do an analysis could download and work with. So we set up to compile it.
+While gathering data about global extremist violence incidents with the intention of analysing the Christchurch Mosques Massacre within a global context, we realised that such data was not readily accessible. It existed but it was spread across many websites and recorded on HTML documents and tables. There was no one-whole set, put together in a standardised manner, in an accessible format (CSV, XLS, or other such), that anyone wishing to do an analysis could download and work with. So we set up to compile it.
 
 Initially we identified  two hundred (200) worst incidents of extremist violence, from all over the world, since 1973.
 
