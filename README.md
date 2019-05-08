@@ -56,6 +56,8 @@ The Worst Extremist Violence Global Incident Database has a repository on [GitHu
 
 [List of major terrorist incidents](https://en.wikipedia.org/wiki/List_of_major_terrorist_incidents)
 
+[List of events named massacres](https://en.wikipedia.org/wiki/List_of_events_named_massacres)
+
 [List of Islamophobic incidents](https://en.wikipedia.org/wiki/List_of_Islamophobic_incidents)
 
 [Compilation of Antisemitic attacks and incidents](https://en.wikipedia.org/wiki/Category:Antisemitic_attacks_and_incidents)
