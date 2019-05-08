@@ -48,6 +48,9 @@ Each incident has its own set of statistics as a function of its number of victi
  - Each time the file WEVGID.xls is changed a SHA1 hash is computed.
  - Each time the file WEVGID.xls is changed it is [signed](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/blob/master/WEVGID.xls.sig).
 
+## GitHub
+The Worst Extremist Violence Global Incident Database has a repository on [GitHub](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/edit/master/README.md). 
+
 ## Sources
 [List of battles and other violent events by death toll](https://en.wikipedia.org/wiki/List_of_battles_and_other_violent_events_by_death_toll)
 
@@ -72,9 +75,6 @@ These sources are complemented by each incident's own Wikipedia article; referen
 We are working through the sources referenced here and are also in the process of identifying other relevant extremist violence compilations and lists.
 
 The population information was obtained from [PopulationPyramid.net](https://www.populationpyramid.net). When a region is not on PopulationPyramid, statistical information is used to obtain its population for the year required.
-
-## GitHub
-The Worst Extremist Violence Global Incident Database has a [GitHub Repository](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/edit/master/README.md). 
 
 ## Licensing
 This project is available under a [Creative Commons Attribution Share Alike 4.0 International](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/blob/master/LICENSE.txt) license.
