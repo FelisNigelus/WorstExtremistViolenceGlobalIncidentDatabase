@@ -74,7 +74,7 @@ We are working through the sources referenced here and are also in the process o
 The population information was obtained from [PopulationPyramid.net](https://www.populationpyramid.net). When a region is not on PopulationPyramid, statistical information is used to obtain its population for the year required.
 
 ## GitHub
-The Worst Extremist Violence Global Incident Database has a [GitHub Repository](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/edit/master/README.md) 
+The Worst Extremist Violence Global Incident Database has a [GitHub Repository](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/edit/master/README.md). 
 
 ## Licensing
 This project is available under a [Creative Commons Attribution Share Alike 4.0 International](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/blob/master/LICENSE.txt) license.
