@@ -9,7 +9,7 @@ While gathering data about global extremist violence incidents with the intentio
 
 Initially we identified two hundred (200) worst incidents of extremist violence, from all over the world, since 1973.
 
-For the purpose of the inclusion of an extremist violence incident in this dataset “*worst*” means one of following two definitions:
+For the purpose of the inclusion of an extremist violence incident in this dataset “*worst*” means one of the following two definitions:
  - the number of direct victims (fatalities plus non-fatally injured) as a ratio of the population of the country in the year of occurrence is 1:1’000,000 or worse – 175 of the initial 200 incidents initially identified (87.5%) meet this definition;
  - incidents with fewer victims than a 1:1’000,000 ratio but of such infamy that they should be counted amongst the worst; for example, the 2011 Monterrey casino attack (México), the 2007 Samjhauta Express bombings (India), the 2016 Orlando nightclub shooting (USA), the July 2015 Kukawa massacre (Nigeria), or the Nishtar Park bombing (Pakistan).
 
