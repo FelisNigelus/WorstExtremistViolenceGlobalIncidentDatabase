@@ -24,6 +24,7 @@ Using this data we have calculated two sets of statistics that can be either use
     - Fatalities Ratio: FR = (P÷F) - 1 
     - Non-fatally Injured Ratio: IR = (I÷F) - 1 
     - Direct Victims Ratio: VR = (P÷V) -1
+
 -  A contextual magnitude statistic that locates the impact of a given incident within the frame of reference of the whole set of global extremist violence incidents. It is calculated for each category (fatality, non-fatally injured, direct victims) by dividing the median of all the ratio statistics in the category by the ratio statistic of a given incident. The magnitude statistic is dynamic: as new incidents get added to the dataset and the median changes, it gets recalculated for all incidents.
     - Contextual Magnitude by Fatalities Ratio: MgFR = Median(All FR) ÷ FRx
     - Contextual Magnitude by Non-fatally Injured Ratio: MgIR = Median(All IR) ÷ IRx
