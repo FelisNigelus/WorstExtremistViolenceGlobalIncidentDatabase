@@ -20,14 +20,14 @@ We will incorporate into the dataset incidents that meet the “worst” criteri
 The dataset contains the “name” of the incident, the main country affected, the date(s) when it occurred, the population of the country in the year the incident occurred, the number of fatalities, the number of non-fatally injured, and the number of direct victims (fatalities plus non-fatally injured). All of this data was obtained for each from the sources listed below. 
 
 Using this data we have calculated two sets of statistics that can be either used to compare the incidents with each other or simply used to understand a given incident in more detail: 
-1.  A ratio that shows how many people were unscathed for every fatality (F), non-fatally injured person (I), and direct victim (V). It is calculated by dividing the population (P) of the country in the year the incident occurred by the number of victims and then subtracting 1 (the victim her/himself). This ratio is a static descriptor of the incidents.  The smaller the numerals the worse the incident, for example, an incident with a ratio statistic of 1:10,000 is worse than another incident with a ratio statistic of 1:50,000.
-  + Fatalities Ratio: FR = (P÷F) - 1 
-  + Non-fatally Injured Ratio: IR = (I÷F) - 1 
-  + Direct Victims Ratio: VR = (P÷V) -1
-2.  A contextual magnitude statistic that locates the impact of a given incident within the frame of reference of the whole set of global extremist violence incidents. It is calculated for each category (fatality, non-fatally injured, direct victims) by dividing the median of all the ratio statistics in the category by the ratio statistic of a given incident. The magnitude statistic is dynamic: as new incidents get added to the dataset and the median changes, it gets recalculated for all incidents.
-  + Contextual Magnitude by Fatalities Ratio: MgFR = Median(All FR) ÷ FRx
-  + Contextual Magnitude by Non-fatally Injured Ratio: MgIR = Median(All IR) ÷ IRx
-  + Contextual Magnitude by Direct Victims Ratio: MgVR = Median(All VR) ÷ VRx
+-  A ratio that shows how many people were unscathed for every fatality (F), non-fatally injured person (I), and direct victim (V). It is calculated by dividing the population (P) of the country in the year the incident occurred by the number of victims and then subtracting 1 (the victim her/himself). This ratio is a static descriptor of the incidents.  The smaller the numerals the worse the incident, for example, an incident with a ratio statistic of 1:10,000 is worse than another incident with a ratio statistic of 1:50,000.
+  - Fatalities Ratio: FR = (P÷F) - 1 
+  - Non-fatally Injured Ratio: IR = (I÷F) - 1 
+  - Direct Victims Ratio: VR = (P÷V) -1
+-  A contextual magnitude statistic that locates the impact of a given incident within the frame of reference of the whole set of global extremist violence incidents. It is calculated for each category (fatality, non-fatally injured, direct victims) by dividing the median of all the ratio statistics in the category by the ratio statistic of a given incident. The magnitude statistic is dynamic: as new incidents get added to the dataset and the median changes, it gets recalculated for all incidents.
+  - Contextual Magnitude by Fatalities Ratio: MgFR = Median(All FR) ÷ FRx
+  - Contextual Magnitude by Non-fatally Injured Ratio: MgIR = Median(All IR) ÷ IRx
+  - Contextual Magnitude by Direct Victims Ratio: MgVR = Median(All VR) ÷ VRx
 
 For example, in the case of the Christchurch Mosques Massacre, the statistics are:
  - 1 fatality for every 96,595 New Zealanders unscathed;
