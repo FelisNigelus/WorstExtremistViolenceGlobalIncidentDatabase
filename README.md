@@ -59,7 +59,7 @@ Each incident has its own set of statistics as a function of its number of victi
 [Worst Extremist Violence Global Incident Database](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/blob/master/WEVGID.xls "Version 1.10 Latest update 09/05/2019 236 records")
 
  - Each time the file WEVGID.xls is changed a SHA1 hash is computed.
- - Each time the file WEVGID.xls is changed it is [signed](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/blob/master/WEVGID.xls.sig).
+ - Each time the file WEVGID.xls is changed it is [signed](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/blob/master/WEVGID.xls.sig) "Signature for Version 1.10 09/05/2019 236 records".
 
 ## GitHub
 The Worst Extremist Violence Global Incident Database has a repository on [GitHub](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/edit/master/README.md). 
