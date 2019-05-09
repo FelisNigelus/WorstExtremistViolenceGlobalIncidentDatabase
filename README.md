@@ -2,29 +2,41 @@
 ## From 1973 to 2019 (present day)
 ### Latest update: 6th of May, 2019 NZST
 ### Number of incidents in dataset: 236
-### Database version: 1.03
-#### SHA1 hash for version 1.03 of WEVGID.xls: 0787c95543c88928b22dfae9943812df7a5e234a
+### Database version: 1.10
+#### SHA1 hash for version 1.10 of WEVGID.xls: 291b0d25a96ef90687085d415f7f978cb1bfedf9
 
 While gathering data about global extremist violence incidents with the intention of analysing the Christchurch Mosques Massacre within a global context, we realised that such data was not readily accessible. It existed but it was spread across many websites and recorded on HTML documents and tables. There was no one-whole set, put together in a standardised manner, in an accessible format (CSV, XLS, or other such), that anyone wishing to do an analysis could download and work with. So we set up to compile it.
 
-Initially we identified  two hundred (200) worst incidents of extremist violence, from all over the world, since 1973.
+Initially we identified two hundred (200) worst incidents of extremist violence, from all over the world, since 1973.
 
 For the purpose of the inclusion of an extremist violence incident in this dataset “*worst*” means the one of following two definitions:
- - the number of direct victims (fatalities plus non-fatally injured) as a proportion of the population of the country in the year of occurrence is 1:1’000,000 or worse;
- - incidents with fewer proportional victims than 1:1’000,000 but of such infamy that they should be counted amongst the worst; for example, the 2011 Monterrey casino attack (México), the 2007 Samjhauta Express bombings (India), the 2016 Orlando nightclub shooting (USA), the July 2015 Kukawa massacre (Nigeria), or the Nishtar Park bombing (Pakistan).
+ - the number of direct victims (fatalities plus non-fatally injured) as a ratio of the population of the country in the year of occurrence is 1:1’000,000 or worse – 175 of the initial 200 incidents initially identified (87.5%) meet this definition;
+ - incidents with fewer victims than a 1:1’000,000 ratio but of such infamy that they should be counted amongst the worst; for example, the 2011 Monterrey casino attack (México), the 2007 Samjhauta Express bombings (India), the 2016 Orlando nightclub shooting (USA), the July 2015 Kukawa massacre (Nigeria), or the Nishtar Park bombing (Pakistan).
 
 We will incorporate into the dataset incidents that meet the “worst” criteria as they occur or as we find out about them.
 
 ## Contents
 
-The dataset contains the “name” of the incident, the main country affected, the date(s) when it occurred, the population of the country in the year the incident occurred, the number of fatalities, the number of non-fatally injured, and the number of direct victims (fatalities plus non-fatally injured).
+The dataset contains the “name” of the incident, the main country affected, the date(s) when it occurred, the population of the country in the year the incident occurred, the number of fatalities, the number of non-fatally injured, and the number of direct victims (fatalities plus non-fatally injured). All of this data was obtained for each from the sources listed below. 
 
-Using this data we have calculated a comparison statistic: how many people were unscathed for every victim.  We have calculated the statistic by number of people unscathed for every fatality; by number of people unscathed for every non-fatally injured person; and by number of people unscathed for every direct victim (fatalities plus non-fatally injured).  The data used is the number of victims (for the three categories) and the population of the country in the year the incident occurred.
+Using this data we have calculated two sets of statistics that can be either used to compare the incidents with each other or simply used to understand a given incident in more detail: 
+1.  A ratio that shows how many people were unscathed for every fatality (F), non-fatally injured person (I), and direct victim (V). It is calculated by dividing the population (P) of the country in the year the incident occurred by the number of victims and then subtracting 1 (the victim her/himself). This ratio is a static descriptor of the incidents.  The smaller the numerals the worse the incident, for example, an incident with a ratio statistic of 1:10,000 is worse than another incident with a ratio statistic of 1:50,000.
+  - Fatalities Ratio: FR = (P÷F) - 1 
+  - Non-fatally Injured Ratio: IR = (I÷F) - 1 
+  - Direct Victims Ratio: VR = (P÷V) -1
+2.  A contextual magnitude statistic that locates the impact of a given incident within the frame of reference of the whole set of global extremist violence incidents. It is calculated for each category (fatality, non-fatally injured, direct victims) by dividing the median of all the ratio statistics in the category by the ratio statistic of a given incident. The magnitude statistic is dynamic: as new incidents get added to the dataset and the median changes, it get recalculated for all incidents.
+  - Contextual Magnitude by Fatalities Ratio: MgFR = Median(All FR) ÷ FRx
+  - Contextual Magnitude by Non-fatally Injured Ratio: MgIR = Median(All IR) ÷ IRx
+  - Contextual Magnitude by Direct Victims Ratio: MgVR = Median(All VR) ÷ VRx
 
 For example, in the case of the Christchurch Mosques Massacre, the statistics are:
  - 1 fatality for every 96,595 New Zealanders unscathed;
  - 1 non-fatally injured for every 100,538 New Zealanders unscathed;
  - 1 direct victim for every 49,263 New Zealanders unscathed.
+ - As of version 1.10 of the dataset (n=236) its contextual magnitudes were: 
+    - MgFR = 5.102 which made it the 29th worst in the set (the worst incident had magnitude 56.702 and the lesser had magnitude 0.002);
+    - MgIR = 4.902 which made it the 39th worst in the set (the worst incident had magnitude 65.067 and the lesser had magnitude 0.002);
+    - MgVR = 10.004 which made it the 35th worst in the set (the worst incident had magnitude 87.926 and the lesser had magnitude 0.015).
 
 Each incident has its own set of statistics as a function of its number of victims (fatalities, non-fatally injured, direct victims) and the population of the country.
 
@@ -43,7 +55,7 @@ Each incident has its own set of statistics as a function of its number of victi
 
 ## The Database
 
-[Worst Extremist Violence Global Incident Database](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/blob/master/WEVGID.xls "Version 1.03 Latest update 06/05/2019 236 records")
+[Worst Extremist Violence Global Incident Database](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/blob/master/WEVGID.xls "Version 1.10 Latest update 09/05/2019 236 records")
 
  - Each time the file WEVGID.xls is changed a SHA1 hash is computed.
  - Each time the file WEVGID.xls is changed it is [signed](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/blob/master/WEVGID.xls.sig).
