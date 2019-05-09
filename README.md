@@ -30,15 +30,6 @@ Using this data we have calculated two sets of statistics that can be either use
     - Contextual Magnitude by Non-fatally Injured Ratio: MgIR = Median(All IR) ÷ IRx
     - Contextual Magnitude by Direct Victims Ratio: MgVR = Median(All VR) ÷ VRx
 
-For example, in the case of the Christchurch Mosques Massacre, the statistics are:
- - 1 fatality for every 96,595 New Zealanders unscathed;
- - 1 non-fatally injured for every 100,538 New Zealanders unscathed;
- - 1 direct victim for every 49,263 New Zealanders unscathed.
- - As of version 1.10 of the dataset (n=236) its contextual magnitudes were: 
-    - MgFR = 5.102 which made it the 29th worst in the set (the worst incident had magnitude 56.702 and the lesser had magnitude 0.002);
-    - MgIR = 4.902 which made it the 39th worst in the set (the worst incident had magnitude 65.067 and the lesser had magnitude 0.002);
-    - MgVR = 10.004 which made it the 35th worst in the set (the worst incident had magnitude 87.926 and the lesser had magnitude 0.015).
-
 Each incident has its own set of statistics as a function of its number of victims (fatalities, non-fatally injured, direct victims) and the population of the country.
 
 ## Methodology
