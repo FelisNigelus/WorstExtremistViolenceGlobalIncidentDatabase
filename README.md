@@ -1,5 +1,5 @@
 # Worst Extremist Violence Global Incident Database
-#### From 1973 to 2019 (present day)
+## From 1973 to 2019 (present day)
 ### Initial release: 4th of May, 2019 NZST | Latest update: 9th of May, 2019 NZST
 ### Number of incidents in dataset: 236
 ### Database version: 1.10
