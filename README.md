@@ -3,7 +3,7 @@
 ### Latest update: 9th of May, 2019 NZST
 ### Number of incidents in dataset: 236
 ### Database version: 1.10
-#### SHA1 hash for version 1.10 of WEVGID.xls: 291b0d25a96ef90687085d415f7f978cb1bfedf9
+##### SHA1 hash for version 1.10 of WEVGID.xls: 291b0d25a96ef90687085d415f7f978cb1bfedf9
 
 
 
