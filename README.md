@@ -19,7 +19,7 @@ We will incorporate into the dataset incidents that meet the “worst” criteri
 
 ## Contents
 
-The dataset contains the “name” of the incident, the main country affected, the date(s) when it occurred, the population of the country in the year the incident occurred, the number of fatalities, the number of non-fatally injured, and the number of direct victims (fatalities plus non-fatally injured). All of this data was obtained for each incident from the sources listed below. 
+The dataset contains the “name” of the incident, the main country (sometimes region) affected, the date(s) when it occurred, the population of the country in the year the incident occurred, the number of fatalities, the number of non-fatally injured, and the number of direct victims (fatalities plus non-fatally injured). All of this data was obtained for each incident from the sources listed below. 
 
 Using this data we have calculated two sets of statistics that can be either used to compare the incidents with each other or simply used to understand a given incident in more detail: 
   - A ratio that shows how many people were unscathed for every fatality (F), non-fatally injured person (I), and direct victim (V). It is calculated by dividing the population (P) of the country in the year the incident occurred by the number of victims and then subtracting 1 (the victim her/himself). This ratio is a static descriptor of the incidents.  The smaller the numerals the worse the incident, for example, an incident with a ratio statistic of 1:10,000 is worse than another incident with a ratio statistic of 1:50,000.
