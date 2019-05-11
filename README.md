@@ -5,6 +5,7 @@
 ### Database version: 1.10
 ##### SHA1 hash for version 1.10 of WEVGID.xls: 291b0d25a96ef90687085d415f7f978cb1bfedf9
 
+
 ## Introduction
 
 While gathering data about global extremist violence incidents with the intention of analysing the Christchurch Mosques Massacre within a global context, we realised that such data was not readily accessible. It existed but it was spread across many websites and recorded on HTML documents and tables. There was no one-whole set, put together in a standardised manner, in an accessible format (CSV, XLS, or other such), that anyone wishing to do an analysis could download and work with. So we set up to compile it.
