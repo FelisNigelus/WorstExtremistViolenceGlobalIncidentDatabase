@@ -1,9 +1,9 @@
 # Worst Extremist Violence Global Incident Database
 ## From 1973 to 2019 (present day)
-### Latest update: 29th of June, 2019 NZST
-### Number of incidents in dataset: 238
-### Database version: 1.13
-#### SHA1 hash for version 1.13 of WEVGID.xls: cc2275ec44fb7324d547021084554fb0c623c7cc
+### Latest update: 4th of July, 2019 NZST
+### Number of incidents in dataset: 239
+### Database version: 1.15
+#### SHA1 hash for version 1.13 of WEVGID.xls: c22080ca8b00db056bdb74f3934d05bebb6416cf
 #### The file WEVGID.xls has been signed by felisnigelus@icloud.com
 
 
@@ -51,10 +51,10 @@ Each incident has its own set of statistics as a function of its number of victi
 
 ## The Database
 
-[Worst Extremist Violence Global Incident Database](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/blob/master/WEVGID.xls "Version 1.13 29/06/2019 238 records")
+[Worst Extremist Violence Global Incident Database](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/blob/master/WEVGID.xls "Version 1.15 04/07/2019 239 records")
 
  - Each time the file WEVGID.xls is changed a SHA1 hash is computed.
- - Each time the file WEVGID.xls is changed it is [signed](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/blob/master/WEVGID.xls.sig "Signature for Version 1.13 29/06/2019 238 records").
+ - Each time the file WEVGID.xls is changed it is [signed](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/blob/master/WEVGID.xls.sig "Signature for Version 1.15 04/07/2019 239 records").
 
 ## GitHub
 The Worst Extremist Violence Global Incident Database has a repository on [GitHub](https://github.com/FelisNigelus/WorstExtremistViolenceGlobalIncidentDatabase/edit/master/README.md). 
